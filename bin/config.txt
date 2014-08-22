@@ -1,0 +1,10 @@
+# VoliBot Configuration
+
+lollocation=C:\Riot Games\League of Legends\
+maxbots=6
+maxlevel=10
+version=4.14.14_07_14_16_36
+region=EUW
+
+
+#Need help? Add me in Skype: misaki.epvp
