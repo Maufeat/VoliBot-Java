@@ -72,6 +72,7 @@ public class Bot {
         regionMap.put("TH", ServerInfo.TH);
         regionMap.put("PH", ServerInfo.PH);
         regionMap.put("VN", ServerInfo.VN);
+        regionMap.put("OCE", ServerInfo.OCE)
     }
 	private static void loadConfiguration() {
 		// TODO Auto-generated method stub
